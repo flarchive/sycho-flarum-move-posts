@@ -2,13 +2,22 @@
 
 > **Read-only archive of released versions of sycho/flarum-move-posts.** Not for installation: use [Packagist](https://packagist.org/packages/sycho/flarum-move-posts) or the [upstream repository](https://github.com/SychO9/flarum-move-posts).
 
-**0** versions archived · Latest: [`v0.2.0`](https://github.com/flarchive/sycho-flarum-move-posts/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^2.0.0`
+**10** versions archived · Latest: [`v0.2.0`](https://github.com/flarchive/sycho-flarum-move-posts/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2021-08-19 | `^1.0.0` | [Browse](https://github.com/flarchive/sycho-flarum-move-posts/tree/archive/v0.1.0) |
+| `v0.1.1` | 2021-08-19 | `^1.0.0` | [Browse](https://github.com/flarchive/sycho-flarum-move-posts/tree/archive/v0.1.1) |
+| `v0.1.2` | 2021-08-20 | `^1.0.0` | [Browse](https://github.com/flarchive/sycho-flarum-move-posts/tree/archive/v0.1.2) |
+| `v0.1.3` | 2021-08-22 | `^1.0.0` | [Browse](https://github.com/flarchive/sycho-flarum-move-posts/tree/archive/v0.1.3) |
+| `v0.1.4` | 2021-08-31 | `^1.0.0` | [Browse](https://github.com/flarchive/sycho-flarum-move-posts/tree/archive/v0.1.4) |
+| `v0.1.5` | 2021-08-31 | `^1.0.0` | [Browse](https://github.com/flarchive/sycho-flarum-move-posts/tree/archive/v0.1.5) |
+| `v0.1.6` | 2022-05-20 | `^1.3.0` | [Browse](https://github.com/flarchive/sycho-flarum-move-posts/tree/archive/v0.1.6) |
+| `v0.1.7` | 2022-08-13 | `^1.3.0` | [Browse](https://github.com/flarchive/sycho-flarum-move-posts/tree/archive/v0.1.7) |
+| `v0.1.8` | 2024-12-14 | `^1.3.0` | [Browse](https://github.com/flarchive/sycho-flarum-move-posts/tree/archive/v0.1.8) |
+| `v0.2.0` | 2025-01-11 | `^2.0.0` | [Browse](https://github.com/flarchive/sycho-flarum-move-posts/tree/archive/v0.2.0) |
 
 Catalog entry: [packages/sycho-flarum-move-posts.json](https://github.com/flarchive/archive-index/blob/main/packages/sycho-flarum-move-posts.json)
 
